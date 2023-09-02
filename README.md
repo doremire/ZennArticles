@@ -1,6 +1,13 @@
 <div align="center">
 
+
+<br>
+<br>
+
 <img src="https://emoji2svg.deno.dev/api/🔵" alt="eyecatch" height="100">
+
+<br>
+<br>
 
 [![Likes](https://badgen.org/img/zenn/doremire/likes?style=flat)](https://zenn.dev/doremire)
 [![Followers](https://badgen.org/img/zenn/doremire/followers?style=flat)](https://zenn.dev/doremire)
